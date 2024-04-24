@@ -1,4 +1,4 @@
-# -Multimodal_Emotion_Detection_Task-5
+# Multimodal_Emotion_Detection_Task-5
 
 1. Objective: Create a real-time multimodal emotion detection system using facial expressions and speech analysis.
 2. Components: Utilize computer vision for facial expression analysis and speech processing algorithms for emotion classification.
